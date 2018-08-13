@@ -1,0 +1,6 @@
+﻿〇実行環境
+Python3系
+
+〇実行方法
+①unifiedTest20180801.pyの7行目api_keyにAPI_KEYの値を書き込む
+②Python unifiedTest20180801.py　で実行
